@@ -1,0 +1,13 @@
+# Temporary Excel files
+~$*
+
+# SQL files accidentally inside Excel project
+financial_transaction_fraud_analysis/SQL/
+
+# Power BI files accidentally inside Excel project
+financial_transaction_fraud_analysis/powerBI/
+
+customer_spending_analysis/analysis/
+
+# Large Excel workbooks
+financial_transaction_fraud_analysis/dashboard/financial_transactions_fraud_analysis.xlsx
